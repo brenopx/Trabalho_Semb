@@ -57,8 +57,6 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define Botao_Pin GPIO_PIN_12
-#define Botao_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 
